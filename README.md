@@ -18,7 +18,7 @@ Beach Volleyball Tournaments - MVP Tracker is a PHP-based web application that a
 
 2. **Tournament Overview:** Go to the "Tournaments" section to explore the list of available tournaments. Click on a tournament to view more details.
 
-3. **Tournament MVP:** In each tournament's details page, the MVP (player with the most aces) will be highlighted.
+3. **Tournament MVP:** In each tournament's details page, the MVP (player with the best overall statistics) will be highlighted.
 
 ## Contributing
 
